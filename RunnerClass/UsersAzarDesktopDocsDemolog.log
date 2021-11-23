@@ -1,0 +1,4 @@
+2021-11-18 15:53:53 INFO  PropertyLog_Demo:16 - Information
+2021-11-18 15:53:53 WARN  PropertyLog_Demo:18 - Warning
+2021-11-18 15:53:53 ERROR PropertyLog_Demo:20 - Error
+2021-11-18 15:53:53 FATAL PropertyLog_Demo:22 - Fatal

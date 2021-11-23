@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="43" started-at="2021-11-19T16:33:24Z" finished-at="2021-11-19T16:33:24Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="43" started-at="2021-11-19T16:33:24Z" finished-at="2021-11-19T16:33:24Z">
+      <class name="com.testng.Simple_Annotations">
+        <test-method status="PASS" signature="amazon()[pri:0, instance:com.testng.Simple_Annotations@29176cc1]" name="amazon" duration-ms="0" started-at="2021-11-19T22:03:24Z" finished-at="2021-11-19T22:03:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- amazon -->
+        <test-method status="PASS" signature="signin()[pri:0, instance:com.testng.Simple_Annotations@29176cc1]" name="signin" is-config="true" duration-ms="0" started-at="2021-11-19T22:03:24Z" finished-at="2021-11-19T22:03:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- signin -->
+        <test-method status="PASS" signature="signout()[pri:0, instance:com.testng.Simple_Annotations@29176cc1]" name="signout" is-config="true" duration-ms="1" started-at="2021-11-19T22:03:24Z" finished-at="2021-11-19T22:03:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- signout -->
+        <test-method status="PASS" signature="signin()[pri:0, instance:com.testng.Simple_Annotations@29176cc1]" name="signin" is-config="true" duration-ms="0" started-at="2021-11-19T22:03:24Z" finished-at="2021-11-19T22:03:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- signin -->
+        <test-method status="PASS" signature="dresses()[pri:0, instance:com.testng.Simple_Annotations@29176cc1]" name="dresses" duration-ms="1" started-at="2021-11-19T22:03:24Z" finished-at="2021-11-19T22:03:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- dresses -->
+        <test-method status="PASS" signature="signout()[pri:0, instance:com.testng.Simple_Annotations@29176cc1]" name="signout" is-config="true" duration-ms="0" started-at="2021-11-19T22:03:24Z" finished-at="2021-11-19T22:03:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- signout -->
+        <test-method status="PASS" signature="shirts()[pri:0, instance:com.testng.Simple_Annotations@29176cc1]" name="shirts" duration-ms="2" started-at="2021-11-19T22:03:24Z" finished-at="2021-11-19T22:03:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- shirts -->
+        <test-method status="PASS" signature="signin()[pri:0, instance:com.testng.Simple_Annotations@29176cc1]" name="signin" is-config="true" duration-ms="0" started-at="2021-11-19T22:03:24Z" finished-at="2021-11-19T22:03:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- signin -->
+        <test-method status="PASS" signature="signout()[pri:0, instance:com.testng.Simple_Annotations@29176cc1]" name="signout" is-config="true" duration-ms="0" started-at="2021-11-19T22:03:24Z" finished-at="2021-11-19T22:03:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- signout -->
+        <test-method status="PASS" signature="homePage()[pri:0, instance:com.testng.Simple_Annotations@29176cc1]" name="homePage" is-config="true" duration-ms="1" started-at="2021-11-19T22:03:24Z" finished-at="2021-11-19T22:03:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- homePage -->
+        <test-method status="PASS" signature="close()[pri:0, instance:com.testng.Simple_Annotations@29176cc1]" name="close" is-config="true" duration-ms="0" started-at="2021-11-19T22:03:24Z" finished-at="2021-11-19T22:03:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+      </class> <!-- com.testng.Simple_Annotations -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
